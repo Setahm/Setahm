@@ -12,3 +12,7 @@
  I'm a full stack developer, I work on a ton of random projects in my free time.
 
 ---
+
+## 🛠️ Skills
+- ASP.NET, MS SQL, HTML/CSS/JS, C, Python, Cypress automation 
+---
