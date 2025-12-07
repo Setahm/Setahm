@@ -4,7 +4,8 @@
 ---
 
 #### 📝 <small>About Me</small>  
-<small>Full‑stack developer here! I spend my free time building everything from serious apps to questionable experiments that only my laptop understands a hobby of starting more projects than I finish ( but hey, it’s the journey that counts)😄 .</small>  
+<small> Dev here! I spend my free time building everything from serious apps to questionable experiments only my laptop understands. I’ve got a hobby of starting more projects than I finish (but hey, it’s the journey that counts) 😄.
+ .</small>  
 
 ---
 
