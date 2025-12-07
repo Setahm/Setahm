@@ -1,4 +1,4 @@
-# 🏄‍♂️ Setah Alaqeel
+# 🏄‍♂️ Setah M
 
 #### <small>`👩‍💻 Software Engineer | 📍Saudi Arabia`</small>  
 ---
