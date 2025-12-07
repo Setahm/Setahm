@@ -4,7 +4,7 @@
 ---
 
 #### 📝 <small>About Me</small>  
-<small>I'm a full stack developer, I work on a ton of random projects in my free time.</small>  
+<small>Full‑stack developer here! I spend my free time building everything from serious apps to questionable experiments that only my laptop understands a hobby of starting more projects than I finish ( but hey, it’s the journey that counts).</small>  
 
 ---
 
