@@ -13,6 +13,6 @@
 
 ---
 
-## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=aspdotnet,mssql,html,css,js,c,python,fastapi,sqlite,figma,cypress,powerbi)](https://skillicons.dev)
+## 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=aspdotnet,mssql,html,css,js,c,python,fastapi,sqlite,figma,cypress,powerbi,Git)](https://skillicons.dev)
 ---
