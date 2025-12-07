@@ -15,7 +15,5 @@
 ---
 
 #### 📎 <small>Contact & Profiles</small>  
-<small>  
-- [LinkedIn](https://www.linkedin.com/in/setah-alaqeel-114616201)  
-- [GitHub](https://github.com/Setahm)  
-</small>
+* [LinkedIn](https://www.linkedin.com/in/setah-alaqeel-114616201)  
+* [GitHub](https://github.com/Setahm) 
