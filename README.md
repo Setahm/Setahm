@@ -1,7 +1,8 @@
 # 🏄‍♂️ Setah Alaqeel
 
 `Software Engineer`
-📍 Saudi Arabia  
+
+*📍 Saudi Arabia* 
 🌐 [LinkedIn](https://www.linkedin.com/in/setah-alaqeel-114616201) | [GitHub](https://github.com/Setahm) 
 
 ---
