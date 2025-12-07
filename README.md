@@ -1,19 +1,21 @@
 # 🏄‍♂️ Setah Alaqeel
 
-### `Software Engineer` 
-### *📍 Saudi Arabia* 
+#### <small>`Software Engineer`</small>  
+#### <small>*📍 Saudi Arabia*</small>  
 ---
 
-### 📝 About Me
- I'm a full stack developer, I work on a ton of random projects in my free time.
+#### 📝 <small>About Me</small>  
+<small>I'm a full stack developer, I work on a ton of random projects in my free time.</small>  
 
 ---
 
-### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=dotnet,mssql,html,css,js,c,python,fastapi,sqlite,figma,cypress,powerbi,git,github)](https://skillicons.dev)
+#### 🧰 <small>Languages and Tools</small>  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,mssql,html,css,js,c,python,fastapi,sqlite,figma,cypress,powerbi,git,github)](https://skillicons.dev)  
+
 ---
 
-### 📎 Contact & Profiles
-
+#### 📎 <small>Contact & Profiles</small>  
+<small>  
 - [LinkedIn](https://www.linkedin.com/in/setah-alaqeel-114616201)  
-- [GitHub](https://github.com/Setahm) 
+- [GitHub](https://github.com/Setahm)  
+</small>
