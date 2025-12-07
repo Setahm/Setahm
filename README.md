@@ -1,6 +1,6 @@
 # 🏄‍♂️ Setah Alaqeel
 
-###`Software Engineer`###
+### `Software Engineer` ###
 ### *📍 Saudi Arabia* ###
 ---
 
