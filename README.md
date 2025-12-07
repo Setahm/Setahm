@@ -11,7 +11,9 @@
 
 #### 🧰 <small>Languages and Tools</small>  
 <sub>
+ 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,mssql,html,css,js,c,python,fastapi,sqlite,figma,cypress,powerbi,git,github)](https://skillicons.dev)
+
 </sub>  
 
 ---
