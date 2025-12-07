@@ -12,7 +12,7 @@
 #### 🧰 <small>Languages and Tools</small>  
 <sub>
  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,html,js,c,python,fastapi,sqlite,figma,cypress,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,html,js,css,c,python,fastapi,sqlite,figma,cypress,git,github)](https://skillicons.dev)
 
 </sub>  
 
