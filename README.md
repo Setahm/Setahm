@@ -1,7 +1,7 @@
 # 🏄‍♂️ Setah Alaqeel
 
-`Software Engineer`
-*📍 Saudi Arabia* 
+###`Software Engineer`###
+### *📍 Saudi Arabia* ###
 ---
 
 ## 📝 About Me
