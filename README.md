@@ -1,8 +1,6 @@
-## Hi there 👋
+# 🏄‍♂️ Setah Alaqeel
 
-# 👩‍💻 I'm Setah Alaqeel
-
-**Software Engineer**  
+`Software Engineer`
 📍 Saudi Arabia  
 🌐 [LinkedIn](https://www.linkedin.com/in/setah-alaqeel-114616201) | [GitHub](https://github.com/Setahm) 
 
